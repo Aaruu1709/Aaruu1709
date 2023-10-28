@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 [![MasterHead](https://www.bing.com/th/id/OGC.baaeeea45ba41bd570d49565c97999e0?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f9f%2fc6%2f0e9fc6ffbdb4c2b4dd7bde19392c9131.gif&ehk=w%2bxzn%2f3w5%2fBAAy%2bOYo0xfE2mjCOxDWA5ZWQAyBKA%2fx8%3d)]
 <h1 align="center">Hi 👋, I'm Arti shinde</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=knJattZD&id=02EFE27212187832EEBA0D0549A010C49DD54303&thid=OIP.knJattZD-JNariwOcHW-VQHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F452%2F564%2Foriginal%2Fweb-design-coding-vector.jpg&exph=4500&expw=4500&q=Coding+Design&simid=607998796575819006&form=IRPRST&ck=F5BA30D88CEA7732EEAFE0C4DDB891AA&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0">
+<img align="right" alt="Coding" width="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=knJattZD&id=02EFE27212187832EEBA0D0549A010C49DD54303&thid=OIP.knJattZD-JNariwOcHW-VQHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F452%2F564%2Foriginal%2Fweb-design-coding-vector.jpg&exph=4500&expw=4500&q=Coding+Design&simid=607998796575819006&form=IRPRST&ck=F5BA30D88CEA7732EEAFE0C4DDB891AA&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0](https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7)">
 
-- 🔭 I’m currently working on *Analysis Of WBCs, RBCs Platelets And Detect The Blood Cancer Using Deep Learning*
+- 🔭 Done Project on *Analysis Of WBCs, RBCs Platelets And Detect The Blood Cancer Using Deep Learning*
 
-- 🌱 I’m currently learning *JavaScript, Android Development*
+- 🌱 I’m currently learning *JavaScript, Python and Power BI*
 
-- 💬 Ask me about *Java, C, CPP concepts, HTML5, CSS3, DBMS*
+- 💬 Ask me about *Java, C, CPP concepts, HTML5, CSS3, DBMS, Data structure concepts, SDLC(Software Development Life Cycle)*
 
 - 📫 How to reach me: *artishinde1709@gmail.com*
 

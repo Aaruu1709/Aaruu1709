@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://getwallpapers.com/wallpaper/full/2/d/f/490230.jpg)]
+[![MasterHead](https://www.bing.com/th/id/OGC.33ce125fd4d8d2e9970f4cf335da0b51?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f552%2f1*vJjJ3Mdok6Rvxx85IIRqBQ.gif&ehk=ebwWahbyHEMuIbSvlizqph7K36u5P3QlCPDqv%2bYiUQY%3d)]
 <h1 align="center">Hi 👋, I'm Arti shinde</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=knJattZD&id=02EFE27212187832EEBA0D0549A010C49DD54303&thid=OIP.knJattZD-JNariwOcHW-VQHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F452%2F564%2Foriginal%2Fweb-design-coding-vector.jpg&exph=4500&expw=4500&q=Coding+Design&simid=607998796575819006&form=IRPRST&ck=F5BA30D88CEA7732EEAFE0C4DDB891AA&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=0">

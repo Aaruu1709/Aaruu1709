@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://www.bing.com/th/id/OGC.baaeeea45ba41bd570d49565c97999e0?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f9f%2fc6%2f0e9fc6ffbdb4c2b4dd7bde19392c9131.gif&ehk=w%2bxzn%2f3w5%2fBAAy%2bOYo0xfE2mjCOxDWA5ZWQAyBKA%2fx8%3d)]
 <h1 align="center">Hi 👋, I'm Arti shinde</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 - 🔨 **Working on:** Building a Exam_System portal with Angular and Springboot.........

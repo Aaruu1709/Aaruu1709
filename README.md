@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
-- 🔨 **Working on:** Building a Exam_System portal with Angular and Springboot.........
+- 🔨 **Working on:** Building a Hospital Management System project with Angular and Springboot.........
  _______________________________________________________________________________________
 - ____ Bookstore📚 Management System ______
 - with Spring Boot
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *JavaScript,*Microservices ,*React.
 
-- 💬 Ask me about *Java, C, CPP concepts, HTML5, CSS3, DBMS, Data structure concepts, SDLC(Software Development Life Cycle)*
+- 💬 Ask me about *Java, C, OOPs Cncepts, HTML5, CSS3, DBMS, Data structure concepts, SDLC(Software Development Life Cycle), Agile methodology, springboot,JDBC, SERVLET, sql, Junit4, 5, Rest API, COLLECTION FRAMEWORK,version control tools - Git, Github, design pattern.*
 
 - 📫 How to reach me: *artishinde1709@gmail.com*
 

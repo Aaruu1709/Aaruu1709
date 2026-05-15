@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Arti Shinde</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | React</h3>
 
-<!-- <img align="right" alt="Female Developer" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
+<img align="right" alt="Female Developer" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 <!-- <img align="right" alt="Coding Girl" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+<!-- <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7"> -->
 ---
 
 ## 👨‍💻 About Me
@@ -62,7 +62,7 @@
 - Implemented account management, fund transfer, transaction history, and payment gateway integration.
 - Designed RESTful APIs with JWT-based authentication and role-based authorization.
 - Optimized backend performance and integrated MySQL for high-volume transaction handling.
-- 
+  
 ### 📚 Bookstore Management System
 - Built a CRUD-based web application using Spring Boot and MySQL.
 - Implemented MVC architecture and REST APIs for efficient book inventory management.

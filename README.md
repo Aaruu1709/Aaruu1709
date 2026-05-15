@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Arti Shinde</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | React</h3>
 
-<img align="right" alt="Female Developer" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="Female Developer" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
+<img align="right" alt="Coding Girl" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 ---
 
 ## 👨‍💻 About Me

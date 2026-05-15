@@ -2,10 +2,9 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <h1 align="center">Hi 👋, I'm Arti Shinde</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | Angular | React</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | React</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Female Developer" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ---
 
 ## 👨‍💻 About Me

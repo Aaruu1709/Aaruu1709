@@ -1,51 +1,109 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arti Shinde</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | Angular | React</h3>
 
-<!--
-**Aaruu1709/Aaruu1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![MasterHead](https://www.bing.com/th/id/OGC.baaeeea45ba41bd570d49565c97999e0?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f9f%2fc6%2f0e9fc6ffbdb4c2b4dd7bde19392c9131.gif&ehk=w%2bxzn%2f3w5%2fBAAy%2bOYo0xfE2mjCOxDWA5ZWQAyBKA%2fx8%3d)]
-<h1 align="center">Hi 👋, I'm Arti shinde</h1>
-<h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+## 👨‍💻 About Me
 
-- 🔨 **Working on:** Building a Hospital Management System project with Angular and Springboot.........
- _______________________________________________________________________________________
-- ____ Bookstore📚 Management System ______
-- with Spring Boot
-- 🌱 **Project Highlights:**🚀
-  - Implementing CRUD operations for efficient book management.
-  - Utilizing the MVC architecture for a clean code structure.
-  - Integrating a MySQL database for data storage.
-  - Developing a RESTful API for seamless communication.
+- 💼 Java Full Stack Developer with experience in designing and developing scalable web applications.
+- 🚀 Skilled in building enterprise-level applications using Java, Spring Boot, Microservices, Angular, and React.
+- 🔥 Passionate about writing clean, maintainable, and efficient code.
+- 🌱 Currently exploring Cloud Technologies, System Design, and DevOps practices.
+- 💡 Strong understanding of REST APIs, Database Design, SDLC, Agile Methodology, and Design Patterns.
+- ⚡ Interested in backend optimization and modern frontend development.
 
-- 🔭 Done Project on *Analysis Of WBCs, RBCs Platelets And Detect The Blood Cancer Using Deep Learning*
+---
 
-- 🌱 I’m currently learning *JavaScript,*Microservices ,*React.
+## 🛠️ Tech Stack
 
-- 💬 Ask me about *Java, C, OOPs Cncepts, HTML5, CSS3, DBMS, Data structure concepts, SDLC(Software Development Life Cycle), Agile methodology, springboot,JDBC, SERVLET, sql, Junit4, 5, Rest API, COLLECTION FRAMEWORK,version control tools - Git, Github, design pattern.*
+### Backend
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Microservices
+- REST API
+- Hibernate / JPA
+- JDBC
+- Servlet
 
-- 📫 How to reach me: *artishinde1700@gmail.com*
+### Frontend
+- Angular
+- React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaruu1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaruu1709" height="30" width="40" /></a>
-<a href="https://instagram.com/aaruu1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaruu1709" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aaruu1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaruu1709" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/Aaruu1709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaruu1709" height="30" width="40"/>
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- Maven
+- Docker
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Hospital Management System
+- Developed a full-stack healthcare management application using Angular and Spring Boot.
+- Implemented authentication, patient management, appointment scheduling, and RESTful APIs.
+- Designed scalable backend architecture with proper layered structure.
+
+### 📚 Bookstore Management System
+- Built a CRUD-based web application using Spring Boot and MySQL.
+- Implemented MVC architecture and REST APIs for efficient book inventory management.
+
+### 🧬 Blood Cancer Detection using Deep Learning
+- Developed a deep learning-based solution for analysis of WBCs, RBCs, and platelets.
+- Focused on image processing and cancer prediction techniques.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aaruu1709&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaruu1709&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaruu1709&show_icons=true&locale=en&layout=compact" alt="aaruu1709" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aaruu1709" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/aaruu1709" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/aaruu1709" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/Aaruu1709" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **artishinde1700@gmail.com**

@@ -5,7 +5,8 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | React</h3>
 
 <!-- <img align="right" alt="Female Developer" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
-<img align="right" alt="Coding Girl" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<!-- <img align="right" alt="Coding Girl" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.LjpcyLJvy5hQIedAjQPZpAHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 ---
 
 ## 👨‍💻 About Me
@@ -83,11 +84,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aaruu1709&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaruu1709&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaruu1709&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaruu1709&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
